@@ -4,7 +4,7 @@ This is a simple **Batch script** that allows users to create a file with a cust
 
 ## 🛠 Features
 
-- Choose any file extension (e.g., `.txt`, `.bat`, `.html`, etc.)
+- Choose any file extension (e.g., `txt`, `bat`, `html`, etc.)
 - Name your file
 - Add custom content to the file
 - Automatically saves the file with your input
